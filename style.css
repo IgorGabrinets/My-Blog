@@ -1,8 +1,81 @@
-span{
-    font: 80px;
+span {
+    font: 3px;
     color: red;
     font-family: Fantasy;
+    opacity: unset;
 }
-.border{
-    border: 5px solid grey;
+
+.border {
+    background-image: url(pexels-miesha-renae-maiden-290220.jpg);
+    background-size: 100%;
+    margin: 10px 10px 10px 10px;
+}
+
+
+#background1 {
+
+    background-color: red;
+    margin: auto;
+}
+
+div {
+    display: flex;
+}
+
+#div_in1 {
+    margin: 10px 10px 10px;
+    width: 50%;
+    height: 100%;
+    background-color: whitesmoke;
+    opacity: 50%;
+    font-size: xx-large;
+}
+
+#div_in2 {
+    margin: auto;
+    max-width: auto;
+    height: 30%;
+    background-color: yellow;
+}
+
+.border2 {
+    /* border: 1px solid red; */
+    background-color: white;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.box {
+    border: 5px solid darkblue;
+    height: 200px;
+    width: 200px;
+}
+
+#p {
+
+    color: black;
+}
+
+.font_color {
+    font: white;
+}
+
+.custom-colored-h1 {
+    color: white;
+    margin: 10px 10px 10px 10px;
+    width: auto;
+}
+
+.down {
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.div_text {
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
